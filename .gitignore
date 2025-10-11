@@ -1,0 +1,17 @@
+# Ignore IntelliJ project files
+.idea/
+*.iml
+
+# Maven/Gradle build folders
+**/target/
+**/build/
+
+# Logs
+*.log
+
+# Node.js modules (React)
+fitness-app-frontend/node_modules/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
